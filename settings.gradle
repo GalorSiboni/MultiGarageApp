@@ -1,0 +1,4 @@
+include ':garage'
+include ':common'
+include ':customers'
+rootProject.name = "HW2"
